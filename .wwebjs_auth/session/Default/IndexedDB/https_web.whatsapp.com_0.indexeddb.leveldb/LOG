@@ -1,0 +1,56 @@
+2024/04/11-23:22:47.363 1554 Reusing MANIFEST C:\Users\Jose Daniel Palacio\Documents\Visual-Code\chatbot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/11-23:22:47.364 1554 Recovering log #830
+2024/04/11-23:22:47.419 1554 Reusing old log C:\Users\Jose Daniel Palacio\Documents\Visual-Code\chatbot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000830.log 
+2024/04/11-23:22:47.419 1554 Delete type=2 #803
+2024/04/11-23:22:47.419 1554 Delete type=2 #804
+2024/04/11-23:22:47.419 1554 Delete type=2 #805
+2024/04/11-23:22:47.419 1554 Delete type=2 #806
+2024/04/11-23:22:47.419 1554 Delete type=2 #807
+2024/04/11-23:22:47.419 1554 Delete type=2 #808
+2024/04/11-23:22:47.419 1554 Delete type=2 #809
+2024/04/11-23:22:47.420 1554 Delete type=2 #832
+2024/04/11-23:22:59.081 2dfc Manual compaction at level-0 from '\x00-\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/11-23:22:59.086 2dfc Level-0 table #842: started
+2024/04/11-23:22:59.097 2dfc Level-0 table #842: 92155 bytes OK
+2024/04/11-23:22:59.098 2dfc Delete type=0 #830
+2024/04/11-23:22:59.099 2dfc Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/11-23:22:59.101 1554 Level-0 table #844: started
+2024/04/11-23:22:59.116 1554 Level-0 table #844: 473 bytes OK
+2024/04/11-23:22:59.117 1554 Delete type=0 #841
+2024/04/11-23:22:59.117 1554 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at '\x00/\x00\x00\x05' @ 3290892 : 0
+2024/04/11-23:22:59.118 1554 Compacting 1@0 + 1@1 files
+2024/04/11-23:22:59.147 1554 Generated table #845@0: 2901 keys, 61689 bytes
+2024/04/11-23:22:59.147 1554 Compacted 1@0 + 1@1 files => 61689 bytes
+2024/04/11-23:22:59.148 1554 compacted to: files[ 0 1 7 0 0 0 0 ]
+2024/04/11-23:22:59.148 1554 Delete type=2 #844
+2024/04/11-23:22:59.149 1554 Manual compaction at level-0 from '\x00/\x00\x00\x05' @ 3290892 : 0 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/11-23:22:59.150 2638 Level-0 table #847: started
+2024/04/11-23:22:59.163 2638 Level-0 table #847: 249 bytes OK
+2024/04/11-23:22:59.164 2638 Delete type=2 #842
+2024/04/11-23:22:59.164 2638 Delete type=0 #843
+2024/04/11-23:22:59.165 2638 Manual compaction at level-0 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at '\x000\x00\x00\x05' @ 3290898 : 0
+2024/04/11-23:22:59.165 2638 Compacting 1@0 + 1@1 files
+2024/04/11-23:22:59.181 2638 Generated table #848@0: 2899 keys, 61594 bytes
+2024/04/11-23:22:59.181 2638 Compacted 1@0 + 1@1 files => 61594 bytes
+2024/04/11-23:22:59.182 2638 compacted to: files[ 0 1 7 0 0 0 0 ]
+2024/04/11-23:22:59.183 2638 Delete type=2 #847
+2024/04/11-23:22:59.183 2638 Manual compaction at level-0 from '\x000\x00\x00\x05' @ 3290898 : 0 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/11-23:23:02.271 1554 Compacting 1@1 + 7@2 files
+2024/04/11-23:23:02.398 1554 Generated table #849@1: 14248 keys, 2189712 bytes
+2024/04/11-23:23:02.485 1554 Generated table #850@1: 4002 keys, 2147921 bytes
+2024/04/11-23:23:02.597 1554 Generated table #851@1: 3311 keys, 2159324 bytes
+2024/04/11-23:23:02.694 1554 Generated table #852@1: 3413 keys, 2143406 bytes
+2024/04/11-23:23:02.846 1554 Generated table #853@1: 22918 keys, 2188620 bytes
+2024/04/11-23:23:03.128 1554 Generated table #854@1: 34301 keys, 2252053 bytes
+2024/04/11-23:23:03.214 1554 Generated table #855@1: 29213 keys, 957420 bytes
+2024/04/11-23:23:03.214 1554 Compacted 1@1 + 7@2 files => 14038456 bytes
+2024/04/11-23:23:03.215 1554 compacted to: files[ 0 0 7 0 0 0 0 ]
+2024/04/11-23:23:03.215 1554 Delete type=2 #833
+2024/04/11-23:23:03.215 1554 Delete type=2 #834
+2024/04/11-23:23:03.215 1554 Delete type=2 #835
+2024/04/11-23:23:03.215 1554 Delete type=2 #836
+2024/04/11-23:23:03.215 1554 Delete type=2 #837
+2024/04/11-23:23:03.216 1554 Delete type=2 #838
+2024/04/11-23:23:03.216 1554 Delete type=2 #839
+2024/04/11-23:23:03.216 1554 Delete type=2 #845
+2024/04/11-23:23:03.216 1554 Delete type=2 #848

@@ -1,0 +1,8 @@
+[0411/232247.842:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0411/232247.844:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[0411/232247.844:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0411/232247.845:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-save-data'.", source:  (0)
+[0411/232247.845:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0411/232247.845:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0411/232247.845:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0411/232302.732:INFO:CONSOLE(11)] "Uncaught (in promise) [object Object]", source: https://static.whatsapp.net/rsrc.php/v3/yX/r/QluNF2o2YsbMRwpSQ9AynbLX0bdGkI142MQBPIWTVGOb1Kr890S4HISvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz (11)
